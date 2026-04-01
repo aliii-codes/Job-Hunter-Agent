@@ -1,0 +1,40 @@
+profile = {
+    "name": "Ali",
+    "age": 16,
+    "location": "Kohat, Pakistan",
+    "experience": "1+ year self-taught",
+    "skills": [
+        "Python",
+        "Groq API",
+        "Cohere API",
+        "Streamlit",
+        "CustomTkinter",
+        "OpenCV",
+        "NumPy",
+        "Arduino"
+    ],
+    "projects": [
+        "Jarvis AI (Groq + LLaMA3 chatbot with real-time search)",
+        "Neural Network from Scratch (NumPy)",
+        "Camera CodeSnap (hand-drawn flowchart to code)",
+        "Auto GitHub README Generator",
+        "Component Idea Generator (Groq Vision)",
+        "Restaurant Chatbot (Flask + Groq)",
+        "Grass Detection YOLO app (85% accuracy)",
+    ],
+    "looking_for": [
+        "freelance",
+        "remote",
+        "part-time",
+        "beginner friendly",
+    ],
+    "preferred_jobs": [
+        "Python developer",
+        "AI/ML projects",
+        "chatbot development",
+        "automation",
+        "Flask backend",
+    ],
+    "rate": "negotiable",
+    "available": True,
+}
