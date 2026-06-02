@@ -1,7 +1,7 @@
 profile = {
     "name": "Ali",
     "age": 16,
-    "location": "Kohat, Pakistan",
+    "location": "city, country",
     "experience": "1+ year self-taught",
     "skills": [
         "Python",
